@@ -1,0 +1,13 @@
+{
+    "name": "Kategorilowongan",
+    "alias": "kategorilowongan",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Kategorilowongan\\Providers\\KategorilowonganServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
